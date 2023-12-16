@@ -12,6 +12,7 @@ Added function to calculate area within the class:
 
 
 Class UML:
+
 ![image](https://github.com/gustavocrvlh/TriangleAreaCalculator-OOP/assets/85922093/0bfd7dbf-7c22-43fb-8b43-e6b6853ca9c5)
 
 
