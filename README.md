@@ -11,6 +11,11 @@ Added function to calculate area within the class:
 ![image](https://github.com/gustavocrvlh/TriangleAreaCalculator-OOP/assets/85922093/05f1510a-0127-420b-ac7e-d33a9b2dbf08)
 
 
+Class UML:
+![image](https://github.com/gustavocrvlh/TriangleAreaCalculator-OOP/assets/85922093/0bfd7dbf-7c22-43fb-8b43-e6b6853ca9c5)
+
+
+
 Returned the function to the Aplication class:
 
 ![image](https://github.com/gustavocrvlh/TriangleAreaCalculator-OOP/assets/85922093/5a7e22c1-a95f-4538-8723-517d22bd3790)
